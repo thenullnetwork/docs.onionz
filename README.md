@@ -12,8 +12,6 @@ Many people can make a website. Many people can make an API. Many people can set
 
 {% page-ref page="general/programming-101.md" %}
 
-
-
 ## Background
 
 {% hint style="danger" %}
@@ -34,5 +32,5 @@ _**TOP**_ is run as a revamp of the Do-Not-Know Project.
 
 > DNK was a web-project designed to make the web more accessible to everyone, while respecting their privacy and financial restrictions. Every thing that DNK provides was **FREE** and allows for **complete anonymity**, although you do need to smart about that yourself. DNK could have been self-hosted for added privacy, and it’s package got larger every day. \(Or week, or month, or year\).
 
-The sam still applies to _**TOP**_, and everything as shown in the warning above is free. People have posed as us before, seeking money for services that they then didn't deliver. They cheated people out of money, and also damaged our reputation \(though we don't have one\).
+The sam still applies to _**TOP**_, and everything, as shown in the warning above, is free. People have posed as us before, seeking money for services that they then didn't deliver. They cheated people out of money, and also damaged our reputation \(though we don't have one\).
 
