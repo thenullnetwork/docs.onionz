@@ -10,7 +10,7 @@ The Onionz Project is an initiative to enable, guide, and protect the users of [
 
 Many people can make a website. Many people can make an API. Many people can set up a web service. But very few people can successfully do this in such a restrictive environment. _**TOP**_ is there to change this. We are unlocking Tor for everyone. So get coding!
 
-{% page-ref page="general/programming-101.md" %}
+{% page-ref page="general/programming-101/" %}
 
 ## Background
 
