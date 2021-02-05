@@ -6,7 +6,7 @@ description: A introduction into The Onionz Project (TOP)
 
 ## Summary
 
-The Onionz Project is an initiative to enable, guide, and protect the users of [_The Tor Project_](https://www.torproject.org/). We \(I\) want to make Tor as functional, powerful, and accessible as possible, while still supporting and enforcing it's core principals.
+The Onionz Project is an initiative to enable, guide, and protect the users of [_The Tor Project_](https://www.torproject.org/). We \(I\) want to make Tor as functional, powerful, and accessible as possible, while still supporting and enforcing its core principals.
 
 Many people can make a website. Many people can make an API. Many people can set up a web service. But very few people can successfully do this in such a restrictive environment. _**TOP**_ is there to change this. We are unlocking Tor for everyone. So get coding!
 
@@ -26,7 +26,7 @@ I am Dasho. I am an amateur developer working with The Null Network. My job is t
 {% endtab %}
 
 {% tab title="📁 The Null Network" %}
-The Null Network is a network of developers who build and promote open-source software. We believe in freedom of speech, the right to anonymity, and the right to safety online. We promote these and actively encourage others to join the already massive community of open source contributers. Run by D, formaly DNK, and co-run by Dasho, formaly Curious, and Nemo. 
+The Null Network is a network of developers who build and promote open-source software. We believe in freedom of speech, the right to anonymity, and the right to safety online. We promote these and actively encourage others to join the already massive community of open-source contributors. Run by D, formerly DNK, and co-run by Dasho, formerly Curious, and Nemo. 
 {% endtab %}
 {% endtabs %}
 
