@@ -17,5 +17,3 @@ description: A changelog of the entire Onionz project so far.
 * **Send Curiosity:** A filehost and pastebin only available as a tor hidden service and based off [linx](https://github.com/andreimarcu/linx-server). Has password protection, filename randomiser, and APIs available.
 * **The Internet Secret:** A homemade guide to using [Whonix](https://www.whonix.org/) and safely browsing Tor.
 
-\*\*\*\*
-
